@@ -1,0 +1,9 @@
+User-agent: Googlebot-Image
+Disallow: /assets/InBug-Black.png
+Disallow: /assets/InBug-White.png
+Disallow: /assets/GitHub_Invertocat_Black.png
+Disallow: /assets/GitHub_Invertocat_Black_Clearspace.png
+Disallow: /assets/GitHub_Copilot_Lockup_White.png
+
+User-agent: *
+Allow: /
